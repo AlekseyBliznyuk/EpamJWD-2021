@@ -268,3 +268,4 @@ public class MultipleMain{
 *Блочный комментарий
 
 */
+Источник: https://javarush.ru/groups/posts/607-kommentarii-v-java--ne-vsje-tak-prosto
